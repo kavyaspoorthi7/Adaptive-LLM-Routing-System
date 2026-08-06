@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Banner.png" alt="Adaptive LLM Routing System Banner" width="100%">
+  <img src="images/banner.png" alt="Adaptive LLM Routing System Banner" width="100%">
 </p>
 
 <h1 align="center">🧠 Adaptive LLM Routing System</h1>
